@@ -7,7 +7,7 @@ This project fetches data from ploygon.io api
 Runs the backend on the port:5001 and successfully fetches data from the concerned api
 
 
-
+### `Netlify URL:https://interiitdev.netlify.app/`
 
 # Getting Started with Create React App
 
