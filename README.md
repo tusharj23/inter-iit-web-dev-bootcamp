@@ -4,7 +4,7 @@ This project fetches data from ploygon.io api
 
 ### `node src/server.js`
 
-Runs the backend and successfully fetches data from the concerned api
+Runs the backend on the port:5001 and successfully fetches data from the concerned api
 
 
 
