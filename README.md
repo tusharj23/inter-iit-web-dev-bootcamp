@@ -1,3 +1,14 @@
+# Getting Started with running backend
+
+This project fetches data from ploygon.io api  
+
+### `node src/server.js`
+
+Runs the backend and successfully fetches data from the concerned api
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
